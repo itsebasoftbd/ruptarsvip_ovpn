@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='80.240.20.126';
-USER='pinkyvip';
-PASS='pinkyvip';
-DBNAME='pinkyvip';
+USER='ruptarsvip';
+PASS='ruptarsvip';
+DBNAME='ruptarsvip';
 
 install_require()
 {
